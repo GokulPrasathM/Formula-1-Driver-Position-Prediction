@@ -25,7 +25,7 @@ The goal of this project is to predict the position of drivers in Formula 1 race
 5. **Prediction and Submission**: Predicted the positions and created a submission file for the test dataset.
 
 ## Data
-    [Dataset Link](https://www.kaggle.com/competitions/f1nalyze-datathon-ieeecsmuj/data)
+  Dataset Link: https://www.kaggle.com/competitions/f1nalyze-datathon-ieeecsmuj/data
 - **Train Data**: Contains race details and final positions for past races.
 - **Validation Data**: Used to validate model performance.
 - **Test Data**: Contains race details for upcoming races where we predict the final positions.
