@@ -25,7 +25,7 @@ The goal of this project is to predict the position of drivers in Formula 1 race
 5. **Prediction and Submission**: Predicted the positions and created a submission file for the test dataset.
 
 ## Data
-
+    [Dataset Link](https://www.kaggle.com/competitions/f1nalyze-datathon-ieeecsmuj/data)
 - **Train Data**: Contains race details and final positions for past races.
 - **Validation Data**: Used to validate model performance.
 - **Test Data**: Contains race details for upcoming races where we predict the final positions.
@@ -125,9 +125,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 For any questions or contributions, feel free to contact:
 
-- **Your Name**: [Your Email](mailto:gokulprasath8600@gmail.com)
-- **GitHub**: [Your GitHub Profile](https://github.com/GokulPrasathM)
-
----
-
-Feel free to replace placeholder information such as your email, GitHub link, RMSE values, and other details as required for your project.
+- **Your Name**: [gokulprasath8600@gmail.com](mailto:gokulprasath8600@gmail.com)
+- **GitHub**: [GokulPrasathM](https://github.com/GokulPrasathM)
